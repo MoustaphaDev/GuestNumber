@@ -1,7 +1,9 @@
 const GuestInput = ({
+  userNumber,
   setUserNumber
 }: {
   setUserNumber: React.Dispatch<React.SetStateAction<string>>
+  userNumber: string
 }) => {
   return (
     <input
@@ -10,6 +12,7 @@ const GuestInput = ({
       onChange={(e) => {
         setUserNumber(e.target.value)
       }}
+      value={userNumber}
     />
   )
 }

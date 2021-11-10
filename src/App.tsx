@@ -44,6 +44,7 @@ function App() {
       <Heading message={headingMessage} />
       {gamePlaying ? (
         <GuessWidget
+          userNumber={userNumber}
           operateDecision={operateDecision}
           setUserNumber={setUserNumber}
         />
