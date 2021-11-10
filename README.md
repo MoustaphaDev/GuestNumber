@@ -1,8 +1,8 @@
-# React Tailwindcss Boilerplate build with Vite
+# Guess The Number App with ReactJS
 
 This is a "Guess The Number" game built with ReactJS
 
-## What is inside?
+## What technologies did we use?
 
 This project uses many tools like:
 
