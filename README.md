@@ -1,6 +1,6 @@
 # React Tailwindcss Boilerplate build with Vite
 
-This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
+This is a "Guess The Number" game built with ReactJS
 
 ## What is inside?
 
@@ -15,20 +15,20 @@ This project uses many tools like:
 - [Eslint](https://eslint.org)
 - [Prettier](https://prettier.io)
 
-## Getting Started
+## To gt this app running locally follow these steps:
 
 ### Install
 
 Create the project.
 
 ```bash
-npx degit joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate my-app
+npx degit MoustaphaDev/GuestNumber guess-the-number
 ```
 
 Access the project directory.
 
 ```bash
-cd my-app
+cd guess-the-number
 ```
 
 Install dependencies.
