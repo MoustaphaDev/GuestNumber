@@ -15,7 +15,7 @@ This project uses many tools like:
 - [Eslint](https://eslint.org)
 - [Prettier](https://prettier.io)
 
-## To gt this app running locally follow these steps:
+## To get this app running locally follow these steps:
 
 ### Install
 
